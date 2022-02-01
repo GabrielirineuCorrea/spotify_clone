@@ -84,7 +84,7 @@ body {
 	color: white;
 	background: url("/img/showcase.webp") center center/cover;
 	background-color: rgba(0, 0, 0, 0.4);
-	/* background-blend-mode: color; */
+	 background-blend-mode: color; 
 }
 
 #showcase .showcase-container {
